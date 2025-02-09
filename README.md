@@ -1,0 +1,2 @@
+# MCDRServerRunner
+一个适用于MCDReforged的Java服务端套壳，支持通过控制台命令伪造服务端日志内容方便进行测试。
